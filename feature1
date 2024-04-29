@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample HTML Page</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <p>This is a paragraph of introduction about the site.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <h2>Home Section</h2>
+        <p>This section provides an overview of the homepage.</p>
+    </section>
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>Details about the services we offer.</p>
+    </section>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Information about our company history and mission.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>How to reach us.</p>
+    </section>
+    <footer>
+        <p>Copyright © 2024 All rights reserved.</p>
+    </footer>
+</body>
+</html>
